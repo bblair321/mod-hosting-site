@@ -39,7 +39,7 @@ gem "active_model_serializers", "~> 0.10"
 gem "friendly_id", "~> 5.5"
 
 # Pagination
-gem "pagy", "~> 8"
+gem "pagy", "~> 9"
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin Ajax possible
 gem "rack-cors"
