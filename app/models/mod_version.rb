@@ -1,0 +1,2 @@
+class ModVersion < ApplicationRecord
+end

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mod_id: 
+  version: MyString
+  release_date: 2025-10-27 09:45:28
+
+two:
+  mod_id: 
+  version: MyString
+  release_date: 2025-10-27 09:45:28
